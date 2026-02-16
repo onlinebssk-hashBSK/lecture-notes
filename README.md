@@ -23,7 +23,7 @@ A comprehensive collection of lecture notes for BSc and MSc Chemistry programs.
 
 
 #### **II BSc Chemistry**
-- **Semester 3 (Odd)**
+  - **Semester 3 (Odd)**
   - Inorganic, Organic and Analytical Chemistry
   - Allied Chemistry - I
 
@@ -35,7 +35,7 @@ A comprehensive collection of lecture notes for BSc and MSc Chemistry programs.
  
 
 #### **III BSc Chemistry**
-- **Semester 5 (Odd)**
+  - **Semester 5 (Odd)**
   - Inorganic Chemistry 
   - **Organic Chemistry **
   - Physical Chemistry 
@@ -43,7 +43,7 @@ A comprehensive collection of lecture notes for BSc and MSc Chemistry programs.
   
 - **Semester 6 (Even)**
   - Inorganic Chemistry 
-  - **Stereochemistry, Free radicals and biomolecules **
+  - ****Stereochemistry, Free radicals and biomolecules** **
   - Physical Chemistry 
   - Polymer Chemistry
   - **Core Practical - III **
@@ -66,7 +66,7 @@ A comprehensive collection of lecture notes for BSc and MSc Chemistry programs.
   - Advanced Organic Chemistry 
   - Advanced Physical Chemistry 
   - Spectroscopic Methods
-  - **Synthetic Methods and Techniques **
+  - **Synthetic Methods and Techniques**
 
 #### **II MSc Chemistry**
 - **Semester 3 (Odd)**
